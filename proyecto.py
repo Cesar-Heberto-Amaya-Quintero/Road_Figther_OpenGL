@@ -239,7 +239,7 @@ def draw_carro():
     #Revisar colisión
     if colisionando():
         
-        glfw.set_window_should_close(window)
+        glfw.set_window_should_close(window, value=True)
         glColor3f(0,1,0)
     else:
         glColor3f(209/255, 21/255, 40/255)
