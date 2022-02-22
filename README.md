@@ -2,6 +2,12 @@
 * Amaya Quintero César Heberto - 199112
 * Peña Hernandez Azalia - 199229
 
-![image](https://user-images.githubusercontent.com/69810426/154884459-6b69d3aa-8345-4f65-b6ac-060c4c0084a2.png)
-![image](https://user-images.githubusercontent.com/69810426/154884602-5ca5262f-9d96-4d2c-bd84-b6482f9561ae.png)
+
+![image](https://user-images.githubusercontent.com/69810426/155067863-1e6e335d-e04d-4b7f-8a16-76748e009c09.png)
+
+![image](https://user-images.githubusercontent.com/69810426/155067919-04bdec05-e802-4f26-8217-de93bb7278df.png)
+
+![image](https://user-images.githubusercontent.com/69810426/155067928-9f241dba-fa55-4eb2-a222-ac4efd2f3614.png)
+
+
 
